@@ -17,7 +17,7 @@ Scientific hypothesis proposing reality as a programmable topological structure 
 - `data/` - Research data and coordinates
 
 ## 🔬 Status
-**Active Research Hypothesis** - Priority established: July 31, 2024
+**Active Research Hypothesis** - Priority established: october 31, 2025
 
 ## 👥 Authors
 [Lukyanov Igor Maximovich], DeepSeek AI
